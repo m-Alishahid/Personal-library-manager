@@ -1,0 +1,142 @@
+[
+    {
+        "title": "It",
+        "author": "Stephen King",
+        "year": 1986,
+        "genre": "Horror",
+        "read": true
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "year": 1977,
+        "genre": "Horror",
+        "read": false
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "genre": "Horror",
+        "read": true
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "genre": "Horror",
+        "read": false
+    },
+    {
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "year": 1959,
+        "genre": "Horror",
+        "read": false
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "year": 1996,
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "year": 2012,
+        "genre": "Romance",
+        "read": false
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "year": 2005,
+        "genre": "Romance",
+        "read": false
+    },
+    {
+        "title": "Outlander",
+        "author": "Diana Gabaldon",
+        "year": 1991,
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Tech",
+        "read": true
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt and David Thomas",
+        "year": 1999,
+        "genre": "Tech",
+        "read": true
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "year": 2009,
+        "genre": "Tech",
+        "read": false
+    },
+    {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": 2015,
+        "genre": "Tech",
+        "read": false
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Erich Gamma et al.",
+        "year": 1994,
+        "genre": "Tech",
+        "read": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Self-help",
+        "read": true
+    },
+    {
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "year": 1989,
+        "genre": "Self-help",
+        "read": false
+    },
+    {
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "year": 1937,
+        "genre": "Self-help",
+        "read": true
+    },
+    {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "year": 2016,
+        "genre": "Self-help",
+        "read": false
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "year": 2016,
+        "genre": "Self-help",
+        "read": true
+    }
+]
